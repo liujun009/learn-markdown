@@ -5,7 +5,7 @@
 ### 小小标题
 This *is* a **text** __sample__.
 
-This is [hyperlink](https://github.com/liujun009/learn-markdown)
+This is [hyperlink](more.md)
 
 > This is a text .
 ---
